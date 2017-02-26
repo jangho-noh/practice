@@ -4,7 +4,7 @@
 
 Using CtCI as a reference, will go through a chapter every 2 days.
 
-Try to find corresponding leetcode questions and solve the easy ones
+Try to find corresponding leetcode questions and solve the easy ones.
 
 MWF, review that chapter
 
